@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.edf71453.css",
+    "main.js": "/portfolio/static/js/main.689dc49b.js",
+    "static/js/453.90a6703c.chunk.js": "/portfolio/static/js/453.90a6703c.chunk.js",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.452017b855604e353c12.jpg",
+    "static/media/Ramya-Cv.pdf": "/portfolio/static/media/Ramya-Cv.3e999b3af634b7f5bb0b.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.edf71453.css.map": "/portfolio/static/css/main.edf71453.css.map",
+    "main.689dc49b.js.map": "/portfolio/static/js/main.689dc49b.js.map",
+    "453.90a6703c.chunk.js.map": "/portfolio/static/js/453.90a6703c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edf71453.css",
+    "static/js/main.689dc49b.js"
+  ]
+}
